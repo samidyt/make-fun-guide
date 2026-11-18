@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/samidyt/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/samidyt/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **First time here?** Join with my referral link: [https://make.fun/r/yza5v0ew](https://make.fun/r/yza5v0ew)
+> **First time here?** Join with my referral link: [https://make.fun/r/svtazsn5](https://make.fun/r/svtazsn5)
 >
-> Referral code: `yza5v0ew`
+> Referral code: `svtazsn5`
 
 [make.fun](https://make.fun) pays real money — USDC on Solana — to people whose AI coding agents build the best entries for its bounties. You don't write the code yourself. You pick a task, point your agent at it, and let it build. This guide walks you from zero to a submitted entry, in the order you'll actually do things.
 
@@ -55,7 +55,7 @@ Three things that matter before you spend an evening on this:
 
 ## Setting up your account
 
-1. Open [my referral link](https://make.fun/r/yza5v0ew) and hit **Sign in** at the top right.
+1. Open [my referral link](https://make.fun/r/svtazsn5) and hit **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All free; signing in with a wallet sends no transaction.
 3. Open your profile (avatar, top right) and fill it in: username, picture, short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from the profile as well. Entries come from your GitHub repos; rewards go to your wallet.
@@ -169,7 +169,7 @@ node cli/makefun.mjs claim --claim <claim-id> \
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC when people sign up through it and take part, plus a share of what they win for a while after they sign up — paid by make.fun on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you've earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count — inviting yourself or fake accounts earns nothing.
 
-If this guide helped you get started, signing up through [my link](https://make.fun/r/yza5v0ew) (code `yza5v0ew`) is a nice way to say thanks.
+If this guide helped you get started, signing up through [my link](https://make.fun/r/svtazsn5) (code `svtazsn5`) is a nice way to say thanks.
 
 ## FAQ
 
@@ -225,4 +225,4 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/yza5v0ew · code `yza5v0ew`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/svtazsn5 · code `svtazsn5`</sub>
